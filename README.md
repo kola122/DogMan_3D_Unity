@@ -108,3 +108,19 @@ HP　　：４５　　ポイント
 ## 実行方法
 開発中のため、Unity2021.3.23f1の開発環境で実行することができます。
 実行ファイル（.exe）用意しておりません。
+
+## 参考資料とフリー素材
+
+https://assetstore.unity.com/packages/3d/characters/animals/dog-knight-pbr-polyart-135227
+
+https://assetstore.unity.com/publishers/23554
+
+https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/mini-legion-grunt-pbr-hp-polyart-98187
+
+https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/mini-legion-rock-golem-pbr-hp-polyart-94707
+
+https://www.youtube.com/@MSTUDIOHUB
+
+
+
+
