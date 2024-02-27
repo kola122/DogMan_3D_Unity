@@ -106,7 +106,7 @@ HP　　：４５　　ポイント
 　　　
 
 ## 実行方法
-そのファイルをダウンロードして解凍し、「3D RPG.exe」を開くとゲームを実行できます。
+DogMan.exe.rarをダウンロードして解凍し、「3D RPG.exe」を開くとゲームを実行できます。
 ## 参考資料とフリー素材
 
 https://assetstore.unity.com/packages/3d/characters/animals/dog-knight-pbr-polyart-135227
