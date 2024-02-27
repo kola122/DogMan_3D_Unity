@@ -106,9 +106,7 @@ HP　　：４５　　ポイント
 　　　
 
 ## 実行方法
-開発中のため、Unity2021.3.23f1の開発環境で実行することができます。
-実行ファイル（.exe）用意しておりません。
-
+そのファイルをダウンロードして解凍し、「3D RPG.exe」を開くとゲームを実行できます。
 ## 参考資料とフリー素材
 
 https://assetstore.unity.com/packages/3d/characters/animals/dog-knight-pbr-polyart-135227
